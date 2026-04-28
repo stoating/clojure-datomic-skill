@@ -1,5 +1,5 @@
 ---
-name: clojure-datomic
+name: datomic
 description: Use for Datomic database work in Clojure and JVM projects: choosing Datomic Local, Pro, or Cloud; installing dependencies; getting started; schema and data modeling; transactions; query and pull; Client API, Peer API, Local API, index/log/stats APIs; Datomic Cloud Ions; operations; analytics; troubleshooting; releases; and Datomic best practices.
 metadata:
   short-description: Datomic setup, APIs, modeling, and operations
