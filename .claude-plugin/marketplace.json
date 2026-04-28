@@ -9,9 +9,8 @@
   "plugins": [
     {
       "name": "datomic",
-      "source": "./",
-      "description": "Clojure Datomic skill — Datomic Local/Pro/Cloud setup, schema and data modeling, transactions, query and pull, Client/Peer/Local APIs, Datomic Cloud Ions, analytics, operations, and best practices.",
-      "version": "0.1.0"
+      "source": "./plugins/datomic",
+      "description": "Clojure Datomic skill — Datomic Local/Pro/Cloud setup, schema and data modeling, transactions, query and pull, Client/Peer/Local APIs, Datomic Cloud Ions, analytics, operations, and best practices."
     }
   ]
 }
